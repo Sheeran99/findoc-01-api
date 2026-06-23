@@ -84,7 +84,9 @@
   5. 安装需要的包        pip install requests
   6. 记录依赖清单        pip freeze > requirements.txt
   7. 初始化 Git          git init
-  8. 建 .gitignore       内容：venv/  __pycache__/  .env
+  8. 建 .gitignore       内容：venv/
+                        __pycache__/
+                        .env
   9. 写代码并运行        python main.py
 
 关键判断标准只有一个：
