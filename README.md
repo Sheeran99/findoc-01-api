@@ -1,5 +1,7 @@
 # FinDoc Stock API · 金融股票数据查询接口
 
+🔗 **在线演示**：https://findoc-01-api-production.up.railway.app/docs
+
 一个基于 FastAPI 的轻量级金融数据查询服务，输入股票代码即可返回该股票近一个月的涨跌情况。本项目是「金融文档智能助手（FinDocAssistant）」系列的第一步，专注于数据获取与接口化。
 
 ## ✨ 功能特性
